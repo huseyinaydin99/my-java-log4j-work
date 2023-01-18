@@ -1,0 +1,3 @@
+2023-01-13 12:11:38.875 [main] INFO  com.proje.Logging1 - Logging1 başarılı.!
+2023-01-13 12:11:38.876 [main] WARN  com.proje.logger.Logging2 - Logging1 başarılı.!
+2023-01-13 12:11:38.877 [main] FATAL com.proje.util.Logging3 - Logging1 başarılı.!
